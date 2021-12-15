@@ -1,0 +1,108 @@
+C:\Users\Halezzi\Desktop\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.csprojResolveAssemblyReference.cache
+C:\Users\Halezzi\Desktop\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmLogin.resources
+C:\Users\Halezzi\Desktop\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Properties.Resources.resources
+C:\Users\Halezzi\Desktop\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.csproj.GenerateResource.Cache
+C:\Users\Halezzi\Desktop\PetCareWork\PetCareWork\bin\Debug\PetCareWork.exe
+C:\Users\Halezzi\Desktop\PetCareWork\PetCareWork\bin\Debug\PetCareWork.pdb
+C:\Users\Halezzi\Desktop\PetCareWork\PetCareWork\bin\Debug\mysql.data.dll
+C:\Users\Halezzi\Desktop\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.exe
+C:\Users\Halezzi\Desktop\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.pdb
+C:\Users\Halezzi\Desktop\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmPrincipal.resources
+C:\Users\Halezzi\Desktop\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmPesqUsuario.resources
+C:\Users\Halezzi\Desktop\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmCadUsuario.resources
+C:\Users\Halezzi\Desktop\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmPesqPedido.resources
+C:\Users\Halezzi\Desktop\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmFuncionario.resources
+C:\Users\Halezzi\Desktop\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmCliente.resources
+C:\Users\168104-4\Desktop\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.exe
+C:\Users\168104-4\Desktop\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.pdb
+C:\Users\168104-4\Desktop\PetCareWork\PetCareWork\bin\Debug\PetCareWork.exe
+C:\Users\168104-4\Desktop\PetCareWork\PetCareWork\bin\Debug\PetCareWork.pdb
+C:\Users\168104-4\Desktop\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.csprojResolveAssemblyReference.cache
+C:\Users\168104-4\Desktop\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmCliente.resources
+C:\Users\168104-4\Desktop\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmFuncionario.resources
+C:\Users\168104-4\Desktop\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmLogin.resources
+C:\Users\168104-4\Desktop\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmPesqPedido.resources
+C:\Users\168104-4\Desktop\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmPesqUsuario.resources
+C:\Users\168104-4\Desktop\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmPrincipal.resources
+C:\Users\168104-4\Desktop\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmCadUsuario.resources
+C:\Users\168104-4\Desktop\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Properties.Resources.resources
+C:\Users\168104-4\Desktop\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.csproj.GenerateResource.Cache
+C:\Users\Halezzi\Desktop\PenredNew\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.exe
+C:\Users\Halezzi\Desktop\PenredNew\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.pdb
+C:\Users\Halezzi\Desktop\PenredNew\PetCareWork\PetCareWork\bin\Debug\PetCareWork.exe
+C:\Users\Halezzi\Desktop\PenredNew\PetCareWork\PetCareWork\bin\Debug\PetCareWork.pdb
+C:\Users\Halezzi\Desktop\PenredNew\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.csprojResolveAssemblyReference.cache
+C:\Users\Halezzi\Desktop\PenredNew\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmCliente.resources
+C:\Users\Halezzi\Desktop\PenredNew\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmFuncionario.resources
+C:\Users\Halezzi\Desktop\PenredNew\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmLogin.resources
+C:\Users\Halezzi\Desktop\PenredNew\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmPesqPedido.resources
+C:\Users\Halezzi\Desktop\PenredNew\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmPesqUsuario.resources
+C:\Users\Halezzi\Desktop\PenredNew\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmPrincipal.resources
+C:\Users\Halezzi\Desktop\PenredNew\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmCadUsuario.resources
+C:\Users\Halezzi\Desktop\PenredNew\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Properties.Resources.resources
+C:\Users\Halezzi\Desktop\PenredNew\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.csproj.GenerateResource.Cache
+G:\ \PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.exe
+G:\ \PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.pdb
+G:\ \PetCareWork\PetCareWork\bin\Debug\PetCareWork.exe
+G:\ \PetCareWork\PetCareWork\bin\Debug\PetCareWork.pdb
+G:\ \PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.csprojResolveAssemblyReference.cache
+G:\ \PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmCliente.resources
+G:\ \PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmFuncionario.resources
+G:\ \PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmLogin.resources
+G:\ \PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmPesqPedido.resources
+G:\ \PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmPesqUsuario.resources
+G:\ \PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmPrincipal.resources
+G:\ \PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmCadUsuario.resources
+G:\ \PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Properties.Resources.resources
+G:\ \PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.csproj.GenerateResource.Cache
+G:\ \PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmProduto.resources
+C:\Users\Halezzi\Desktop\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmProduto.resources
+C:\Users\168104-4\Desktop\NewPet\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.exe
+C:\Users\168104-4\Desktop\NewPet\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.pdb
+C:\Users\168104-4\Desktop\NewPet\PetCareWork\PetCareWork\bin\Debug\PetCareWork.exe
+C:\Users\168104-4\Desktop\NewPet\PetCareWork\PetCareWork\bin\Debug\PetCareWork.pdb
+C:\Users\168104-4\Desktop\NewPet\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.csprojResolveAssemblyReference.cache
+C:\Users\168104-4\Desktop\NewPet\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmCliente.resources
+C:\Users\168104-4\Desktop\NewPet\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmFuncionario.resources
+C:\Users\168104-4\Desktop\NewPet\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmLogin.resources
+C:\Users\168104-4\Desktop\NewPet\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmPesqPedido.resources
+C:\Users\168104-4\Desktop\NewPet\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmPesqUsuario.resources
+C:\Users\168104-4\Desktop\NewPet\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmPrincipal.resources
+C:\Users\168104-4\Desktop\NewPet\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmCadUsuario.resources
+C:\Users\168104-4\Desktop\NewPet\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmProduto.resources
+C:\Users\168104-4\Desktop\NewPet\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Properties.Resources.resources
+C:\Users\168104-4\Desktop\NewPet\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.csproj.GenerateResource.Cache
+C:\Users\168104-4\Desktop\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmProduto.resources
+C:\Users\Miquéias\Documents\Pendrive\PetCareWork\PetCareWork\bin\Debug\PetCareWork.exe
+C:\Users\Miquéias\Documents\Pendrive\PetCareWork\PetCareWork\bin\Debug\PetCareWork.pdb
+C:\Users\Miquéias\Documents\Pendrive\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.csprojResolveAssemblyReference.cache
+C:\Users\Miquéias\Documents\Pendrive\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmCliente.resources
+C:\Users\Miquéias\Documents\Pendrive\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmFuncionario.resources
+C:\Users\Miquéias\Documents\Pendrive\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmLogin.resources
+C:\Users\Miquéias\Documents\Pendrive\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmPesqPedido.resources
+C:\Users\Miquéias\Documents\Pendrive\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmPesqUsuario.resources
+C:\Users\Miquéias\Documents\Pendrive\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmPrincipal.resources
+C:\Users\Miquéias\Documents\Pendrive\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmCadUsuario.resources
+C:\Users\Miquéias\Documents\Pendrive\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmProduto.resources
+C:\Users\Miquéias\Documents\Pendrive\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Properties.Resources.resources
+C:\Users\Miquéias\Documents\Pendrive\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.csproj.GenerateResource.Cache
+C:\Users\Miquéias\Documents\Pendrive\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.csproj.CoreCompileInputs.cache
+C:\Users\Miquéias\Documents\Pendrive\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.exe
+C:\Users\Miquéias\Documents\Pendrive\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.pdb
+D:\Backups\Bakups Outros\IFSP\Arquivos IFSP\PetCareWork\PetCareWork\bin\Debug\PetCareWork.exe
+D:\Backups\Bakups Outros\IFSP\Arquivos IFSP\PetCareWork\PetCareWork\bin\Debug\PetCareWork.pdb
+D:\Backups\Bakups Outros\IFSP\Arquivos IFSP\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.csprojAssemblyReference.cache
+D:\Backups\Bakups Outros\IFSP\Arquivos IFSP\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmCliente.resources
+D:\Backups\Bakups Outros\IFSP\Arquivos IFSP\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmFuncionario.resources
+D:\Backups\Bakups Outros\IFSP\Arquivos IFSP\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmLogin.resources
+D:\Backups\Bakups Outros\IFSP\Arquivos IFSP\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmPesqPedido.resources
+D:\Backups\Bakups Outros\IFSP\Arquivos IFSP\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmPesqUsuario.resources
+D:\Backups\Bakups Outros\IFSP\Arquivos IFSP\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmPrincipal.resources
+D:\Backups\Bakups Outros\IFSP\Arquivos IFSP\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmCadUsuario.resources
+D:\Backups\Bakups Outros\IFSP\Arquivos IFSP\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Forms.FrmProduto.resources
+D:\Backups\Bakups Outros\IFSP\Arquivos IFSP\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.Properties.Resources.resources
+D:\Backups\Bakups Outros\IFSP\Arquivos IFSP\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.csproj.GenerateResource.cache
+D:\Backups\Bakups Outros\IFSP\Arquivos IFSP\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.csproj.CoreCompileInputs.cache
+D:\Backups\Bakups Outros\IFSP\Arquivos IFSP\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.csproj.CopyComplete
+D:\Backups\Bakups Outros\IFSP\Arquivos IFSP\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.exe
+D:\Backups\Bakups Outros\IFSP\Arquivos IFSP\PetCareWork\PetCareWork\obj\x86\Debug\PetCareWork.pdb
